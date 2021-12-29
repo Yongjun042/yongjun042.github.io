@@ -6,7 +6,9 @@ order: 4
 
 ## 박용준
 
-[소개 페이지](https://yongjun042.github.io/portfolio/ "소개 페이지")
+[포트폴리오](https://yongjun042.github.io/portfolio/)
+
+[English(LinkedIn)](https://www.linkedin.com/in/yongjun-park-63099a135/)
 
 yongjun042@gmail.com
 

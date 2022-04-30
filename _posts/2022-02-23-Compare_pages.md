@@ -5,7 +5,6 @@ date: 2022-01-02 22:55:00 +0900
 categories: [Blog, Develope]
 tags: [React, CRA, webpack]
 
-published: false
 ---
 
 CRA(Create React App)으로 리액트 앱을 만들고 웹팩 5을 적용하게 되면 웹팩 5부터 polyfill 을 기본으로 지원하지 않기 때문에 오류가 생긴다. polyfill은 브라우저 호환성을 위한 도구지만 불필요한 경우가 많아 제외되었다.

@@ -23,6 +23,7 @@ tags: [Pages, CI]
 ### Github
 
 ``` yml
+{% raw %}
 name: Build and deploy Jekyll site to GitHub Pages
 
 on:
@@ -44,6 +45,7 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+{% endraw %}
 ```
 
 깃허브 actions의 마켓플레이스에 있는 툴들을 이용해서 빌드를 한다.

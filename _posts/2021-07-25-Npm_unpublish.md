@@ -4,8 +4,7 @@ author: Yongjun042
 date: 2021-07-25 15:35:00 +0900
 categories: [Blog, Develope]
 tags: [npm, javascript]
-image:
-  src: "/assets/img/postimg/copilot/header.PNG"
+image: /assets/img/postimg/copilot/header.PNG
 ---
 
 2016년 3월 22일 수많은 자바스크립트 프로그래머들은 npm ERR! 404 'left-pad' not in the npm registry. 라는 오류를 보게 된다.

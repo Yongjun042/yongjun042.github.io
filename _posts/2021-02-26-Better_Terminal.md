@@ -4,8 +4,7 @@ author: Yongjun042
 date: 2021-02-26 19:00:00 +0900
 categories: [Blog, Develope]
 tags: [terminal, powerline]
-image:
-  src: "/assets/img/postimg/terminal/term_title.PNG"
+image: /assets/img/postimg/terminal/term_title.PNG
 ---
 
 터미널을 더욱 더 유용하고 이쁘게 사용할 수 있는 프로그램을 설치해봅시다.

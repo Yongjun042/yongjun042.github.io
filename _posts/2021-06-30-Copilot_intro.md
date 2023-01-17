@@ -4,8 +4,7 @@ author: Yongjun042
 date: 2021-06-30 14:30:00 +0900
 categories: [Blog, Develope]
 tags: [GitHub, Ide]
-image:
-  src: "/assets/img/postimg/copilot/header.PNG"
+image: /assets/img/postimg/copilot/header.PNG
 ---
 
 ![copilot sample](/assets/img/postimg/copilot/autocomplete.PNG "copilot sample")

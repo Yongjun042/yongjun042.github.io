@@ -135,7 +135,6 @@ git은 git단축키 프로그램으로 기본으로 깔려있습니다.
 `source ~/.zshrc`을 입력하면 zsh설정파일을 다시 불러와 적용할 수 있습니다.
 
 ![zsh자동완성](/assets/img/postimg/terminal/zsh_auto.PNG "zsh자동완성")
-![zsh하이라이트](/assets/img/postimg/terminal/zsh_highlight.PNG "zsh하이라이트")
 
 ## Oh-my-Posh 설치하기
 
